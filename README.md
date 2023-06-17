@@ -7,6 +7,6 @@
 
 [![onurcevdetgungoren's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=onurcevdetgungoren&theme=gotham)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=onurcevdetgungoren&layout=compact&langs_count=10&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
-
 [![onurcevdetgungoren's github stats](https://github-readme-stats.vercel.app/api?username=onurcevdetgungoren&theme=tokyonight&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=onurcevdetgungoren&layout=compact&langs_count=10&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
