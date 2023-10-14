@@ -6,7 +6,3 @@
 [![Medium Badge](https://img.shields.io/badge/-onurcevdetgungoren-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@onurcevdetgungoren)](https://medium.com/@onurcevdetgungoren)
 
 [![onurcevdetgungoren's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=onurcevdetgungoren&theme=gotham)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
-[![onurcevdetgungoren's github stats](https://github-readme-stats.vercel.app/api?username=onurcevdetgungoren&theme=gotham&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=onurcevdetgungoren&layout=compact&langs_count=10&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
